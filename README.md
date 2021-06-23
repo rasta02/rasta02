@@ -30,5 +30,4 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="55" height="55"/> 
 </p>
 
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1rRhkSL28ko0rj9k8Gvdlb)
