@@ -29,5 +29,5 @@
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="55" height="55"/> 
 </p>
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1rRhkSL28ko0rj9k8Gvdlb)
+<!-- 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1rRhkSL28ko0rj9k8Gvdlb) -->
